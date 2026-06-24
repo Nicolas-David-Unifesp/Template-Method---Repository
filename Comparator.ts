@@ -1,4 +1,4 @@
-abstract class Comparator {
+export default abstract class Comparator {
     public readonly nome: string;
 
     constructor(nome: string) {
